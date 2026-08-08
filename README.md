@@ -50,7 +50,7 @@ personal-portfolio/
 
 ## Live Demo
 
-[Add your GitHub Pages link here]
+[View My Portfolio] ( https://aakhilashaik.github.io/akhila/)
 
 ## Author
 
